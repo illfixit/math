@@ -20,6 +20,7 @@ Finish
 
 Lecture 4: Number Theory I
 Start
+Finish
 
 Lecture 5:
 Lecture 6:
