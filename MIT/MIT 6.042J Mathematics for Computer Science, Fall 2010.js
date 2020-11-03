@@ -18,7 +18,9 @@ Lecture 3: Strong Induction
 Start
 Finish
 
-Lecture 4:
+Lecture 4: Number Theory I
+Start
+
 Lecture 5:
 Lecture 6:
 Lecture 7:
