@@ -22,7 +22,10 @@ Lecture 4: Number Theory I
 Start
 Finish
 
-Lecture 5:
+Lecture 5: Number Theory II
+Start
+Finish
+
 Lecture 6:
 Lecture 7:
 Lecture 8:
