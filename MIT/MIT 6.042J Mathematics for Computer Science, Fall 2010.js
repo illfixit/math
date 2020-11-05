@@ -26,7 +26,9 @@ Lecture 5: Number Theory II
 Start
 Finish
 
-Lecture 6:
+Lecture 6: Graph Theory and Coloring
+Start
+
 Lecture 7:
 Lecture 8:
 Lecture 9:
