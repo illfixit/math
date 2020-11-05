@@ -28,6 +28,7 @@ Finish
 
 Lecture 6: Graph Theory and Coloring
 Start
+Finish
 
 Lecture 7:
 Lecture 8:
