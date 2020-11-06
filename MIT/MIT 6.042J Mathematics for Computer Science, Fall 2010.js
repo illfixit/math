@@ -30,7 +30,9 @@ Lecture 6: Graph Theory and Coloring
 Start
 Finish
 
-Lecture 7:
+Lecture 7: Matching Problems
+Start
+
 Lecture 8:
 Lecture 9:
 Lecture 10:
