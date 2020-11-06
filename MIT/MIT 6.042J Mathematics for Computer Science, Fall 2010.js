@@ -32,6 +32,7 @@ Finish
 
 Lecture 7: Matching Problems
 Start
+Finish
 
 Lecture 8:
 Lecture 9:
