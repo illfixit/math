@@ -36,6 +36,7 @@ Finish
 
 Lecture 8: Graph Theory II: Minimum Spanning Trees
 Start
+Finish
 
 Lecture 9:
 Lecture 10:
