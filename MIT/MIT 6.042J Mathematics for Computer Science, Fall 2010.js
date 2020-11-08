@@ -34,7 +34,9 @@ Lecture 7: Matching Problems
 Start
 Finish
 
-Lecture 8:
+Lecture 8: Graph Theory II: Minimum Spanning Trees
+Start
+
 Lecture 9:
 Lecture 10:
 
