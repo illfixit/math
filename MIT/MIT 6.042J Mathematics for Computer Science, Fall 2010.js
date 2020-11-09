@@ -40,6 +40,7 @@ Finish
 
 Lecture 9: Communication Networks
 Start
+Finish
 
 Lecture 10:
 
