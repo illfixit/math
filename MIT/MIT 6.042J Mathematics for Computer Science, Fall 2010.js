@@ -38,7 +38,9 @@ Lecture 8: Graph Theory II: Minimum Spanning Trees
 Start
 Finish
 
-Lecture 9:
+Lecture 9: Communication Networks
+Start
+
 Lecture 10:
 
 Lecture 11:
