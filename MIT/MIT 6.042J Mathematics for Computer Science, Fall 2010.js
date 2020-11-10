@@ -39,7 +39,7 @@ Start
 Finish
 
 Lecture 9: Communication Networks
-Start
+Restart
 Finish
 
 Lecture 10:
