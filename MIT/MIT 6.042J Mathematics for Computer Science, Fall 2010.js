@@ -42,8 +42,9 @@ Lecture 9: Communication Networks
 Start
 Finish
 
-Lecture 10:
+Lecture 10: Graph Theory III
 Start
+Finish
 
 Lecture 11:
 Lecture 12:
