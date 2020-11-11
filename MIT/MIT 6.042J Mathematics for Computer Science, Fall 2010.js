@@ -43,6 +43,7 @@ Start
 Finish
 
 Lecture 10:
+Start
 
 Lecture 11:
 Lecture 12:
