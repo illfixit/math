@@ -48,6 +48,7 @@ Finish
 
 Lecture 11: Relations, Partial Orders, and Scheduling
 Start
+Finish
 
 Lecture 12:
 Lecture 13:
