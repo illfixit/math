@@ -52,6 +52,7 @@ Finish
 
 Lecture 12: Sums
 Start
+Finish
 
 Lecture 13:
 Lecture 14:
