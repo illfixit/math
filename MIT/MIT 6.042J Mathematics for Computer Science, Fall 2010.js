@@ -50,7 +50,9 @@ Lecture 11: Relations, Partial Orders, and Scheduling
 Start
 Finish
 
-Lecture 12:
+Lecture 12: Sums
+Start
+
 Lecture 13:
 Lecture 14:
 Lecture 15:
