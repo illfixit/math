@@ -56,6 +56,7 @@ Finish
 
 Lecture 13: Sums and Asymptotics
 Start
+Finish
 
 Lecture 14:
 Lecture 15:
