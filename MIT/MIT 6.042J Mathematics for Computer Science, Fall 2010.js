@@ -58,7 +58,9 @@ Lecture 13: Sums and Asymptotics
 Start
 Finish
 
-Lecture 14:
+Lecture 14: Divide and Conquer Recurrences
+Start
+
 Lecture 15:
 Lecture 16:
 Lecture 17:
