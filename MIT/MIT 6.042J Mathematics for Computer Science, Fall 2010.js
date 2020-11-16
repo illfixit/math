@@ -60,6 +60,7 @@ Finish
 
 Lecture 14: Divide and Conquer Recurrences
 Start
+Finish
 
 Lecture 15:
 Lecture 16:
