@@ -65,6 +65,7 @@ Finish
 
 Lecture 15: Linear Recurrences
 Start
+Finish
 
 Lecture 16:
 Lecture 17:
