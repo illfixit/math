@@ -4,7 +4,8 @@ Fall 2010
 
 Instructor: Tom Leighton
 View the complete course: http://ocw.mit.edu/6-042JF10
-Youtube playlist: https://www.youtube.com/playlist?list=PLWX710qNZo_sT8y9Nt8vyC_fXOEo-ebTS
+Youtube playlist: 
+https://www.youtube.com/playlist?list=PLWX710qNZo_sT8y9Nt8vyC_fXOEo-ebTS
 
 Lecture 1: Introduction and Proofs
 Start
@@ -62,7 +63,9 @@ Lecture 14: Divide and Conquer Recurrences
 Start
 Finish
 
-Lecture 15:
+Lecture 15: Linear Recurrences
+Start
+
 Lecture 16:
 Lecture 17:
 Lecture 18:
