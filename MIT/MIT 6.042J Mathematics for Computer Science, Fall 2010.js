@@ -69,6 +69,7 @@ Finish
 
 Lecture 16: Counting Rules I
 Start
+Finish
 
 Lecture 17:
 Lecture 18:
