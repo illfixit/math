@@ -67,7 +67,9 @@ Lecture 15: Linear Recurrences
 Start
 Finish
 
-Lecture 16:
+Lecture 16: Counting Rules I
+Start
+
 Lecture 17:
 Lecture 18:
 Lecture 19:
