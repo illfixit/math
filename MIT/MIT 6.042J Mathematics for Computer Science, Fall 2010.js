@@ -71,7 +71,9 @@ Lecture 16: Counting Rules I
 Start
 Finish
 
-Lecture 17:
+Lecture 17: Counting Rules II
+Start
+
 Lecture 18:
 Lecture 19:
 Lecture 20:
