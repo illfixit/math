@@ -74,7 +74,9 @@ Finish
 Lecture 17: Counting Rules II
 Start
 
-Lecture 18:
+Lecture 18: Probability Introduction
+Start
+
 Lecture 19:
 Lecture 20:
 
