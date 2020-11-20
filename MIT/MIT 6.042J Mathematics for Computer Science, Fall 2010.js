@@ -76,6 +76,7 @@ Start
 
 Lecture 18: Probability Introduction
 Start
+Finish
 
 Lecture 19:
 Lecture 20:
