@@ -80,6 +80,7 @@ Finish
 
 Lecture 19: Conditional Probability
 Start
+Finish
 
 Lecture 20:
 
