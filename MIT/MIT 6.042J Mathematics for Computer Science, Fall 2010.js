@@ -82,7 +82,8 @@ Lecture 19: Conditional Probability
 Start
 Finish
 
-Lecture 20:
+Lecture 20: Independence
+Start
 
 Lecture 21:
 Lecture 22:
