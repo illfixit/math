@@ -78,7 +78,9 @@ Lecture 18: Probability Introduction
 Start
 Finish
 
-Lecture 19:
+Lecture 19: Conditional Probability
+Start
+
 Lecture 20:
 
 Lecture 21:
