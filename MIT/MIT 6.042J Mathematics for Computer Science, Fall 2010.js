@@ -84,6 +84,7 @@ Finish
 
 Lecture 20: Independence
 Start
+Finish
 
 Lecture 21:
 Lecture 22:
