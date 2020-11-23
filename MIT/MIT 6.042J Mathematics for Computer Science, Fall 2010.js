@@ -88,7 +88,7 @@ Finish
 
 Lecture 21: Random Variables
 Start
-
+Finish
 
 Lecture 22:
 Lecture 23:
