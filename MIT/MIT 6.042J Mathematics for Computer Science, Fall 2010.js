@@ -86,7 +86,10 @@ Lecture 20: Independence
 Start
 Finish
 
-Lecture 21:
+Lecture 21: Random Variables
+Start
+
+
 Lecture 22:
 Lecture 23:
 Lecture 24:
