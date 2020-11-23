@@ -90,7 +90,9 @@ Lecture 21: Random Variables
 Start
 Finish
 
-Lecture 22:
+Lecture 22: Expectation I
+Start
+
 Lecture 23:
 Lecture 24:
 Lecture 25:
