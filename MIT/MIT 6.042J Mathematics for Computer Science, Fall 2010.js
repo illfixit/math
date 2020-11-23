@@ -92,6 +92,7 @@ Finish
 
 Lecture 22: Expectation I
 Start
+Finish 
 
 Lecture 23:
 Lecture 24:
