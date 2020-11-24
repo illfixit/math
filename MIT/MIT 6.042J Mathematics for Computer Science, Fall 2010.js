@@ -96,6 +96,7 @@ Finish
 
 Lecture 23: Expectation II
 Start
+Finish
 
 Lecture 24:
 Lecture 25:
