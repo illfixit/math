@@ -94,7 +94,9 @@ Lecture 22: Expectation I
 Start
 Finish 
 
-Lecture 23:
+Lecture 23: Expectation II
+Start
+
 Lecture 24:
 Lecture 25:
 
