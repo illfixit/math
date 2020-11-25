@@ -98,7 +98,9 @@ Lecture 23: Expectation II
 Start
 Finish
 
-Lecture 24:
+Lecture 24: Large Deviations
+Start
+
 Lecture 25:
 
 */
