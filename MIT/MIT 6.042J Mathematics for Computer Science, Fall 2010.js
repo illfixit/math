@@ -100,6 +100,7 @@ Finish
 
 Lecture 24: Large Deviations
 Start
+Finish
 
 Lecture 25:
 
