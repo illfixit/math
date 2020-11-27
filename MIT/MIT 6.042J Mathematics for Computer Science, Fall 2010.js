@@ -104,5 +104,6 @@ Finish
 
 Lecture 25: Random Walks
 Start
+Finish
 
 */
