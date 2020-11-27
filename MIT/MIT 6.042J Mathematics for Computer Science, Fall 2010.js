@@ -102,6 +102,7 @@ Lecture 24: Large Deviations
 Start
 Finish
 
-Lecture 25:
+Lecture 25: Random Walks
+Start
 
 */
