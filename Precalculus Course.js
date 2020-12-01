@@ -1,5 +1,8 @@
 /* YouTube freeCodeCamp.org
 Precalculus Course
+
+https://www.youtube.com/watch?v=eI4an8aSsgw
+
 5:22:01
 
 Start
