@@ -359,6 +359,88 @@ Whenever a point(x, y) is on the graph, the point
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 31:37
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Transformations of Functions
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Review of Function Notation
+Example. Rewrite the following, if g(x) = x^1/2
+
+a) g(x) - 2 = x^1/2 - 2
+b) g(x-2) = (x-2)^1/2
+c) g(3x) = (3x)^1/2
+d) 3g(x) = 3*(x^1/2)
+e) g(-x) = (-x)^1/2
+
+Example. Rewrite the following in terms of g(x), if g(x) = x^1/2
+
+f) x^1/2 + 17 = g(x) + 17
+g) (x+12)^1/2 = g(x+12)
+h) -36 * (x^1/2) = -36*g(x)
+i) (1/4*x)^1/2 = g(1/4*x)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Rules for transformations:
+
+> Numbers on the outside of the function affect the y-values and
+  result in vertical motions. THese motions are in the direction 
+  you expect.
+
+> Numbers on the inside of the function affect the x-values and
+  result in horizontal motions. These motions go in the opposite
+  direction from what you expect.
+
+> Adding results in a shift (translations)
+
+> Multiplying results in a stretch or shrink
+
+> A negative sign results in a reflection
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+numbers on outside <-> y-values <-> vertical motions
+numbers on inside <-> x-values <-> horizontal motions
+adding / substraction <-> translations(shifts)
+multiplying/dividing <-> stretches or shrinks
+negative sign <-> reflection
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Piecewise Functions
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. The function f is defined as follows:
+
+       { -x^2 	if x < 1
+f(x) = { 
+       { -2*x + 3 if x >= 1
+
+1. What is f(-2)? What is f(1) What is f(3)?
+> x = -2 (x < 1) => f(x) = -x^2 => f(x) =  -(-2)^2 = -4
+> x = 1 => f(1) = -2(1) + 3 = 1
+> x = 3 => f(3) = -2(3) + 3 = -3
+
+2. Graph y = f(x)
+
+Graph... :)
+
+3. Is f(x) continous?
+- no
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~ 1:00:00
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
 
 
 */
