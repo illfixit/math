@@ -437,8 +437,272 @@ Graph... :)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Inverse Functions
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Suppose f(x) is the function defined by the chart below:
+  x  2 3 4 5
+f(x) 3 5 6 1
+
+In other words, f(2) = 3, f(3) = 5 etc...
+
+Definition. 
+The inverse function for f, written f^-1(x), undoes what f does
+
+     x  3 5 6 1
+f^-1(x) 2 3 4 5
+
+In other words, f^-1(3) = 2, f^-1(5) = 3, f^-1(6) = 4, f^-1(1) = 5
+
+Key Fact 1. Inverse functions reverse the roles of y and x.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Graph y = f(x) and y = f^-1(x) on the same axes below. What do you
+notice about the points on the graph of y = f(x) and the points on the
+graph of y = f^-1?
+
+Graph... :)
+
+     x  2 3 4 5
+   f(x) 3 5 6 1
+
+     x  3 5 6 1
+f^-1(x) 2 3 4 5
+
+Key Fact 2. The graph of y = f^-1(x) is obtained from the graph of
+y = f(x) by reflecting over the line y = x.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+     x  2 3 4 5
+   f(x) 3 5 6 1
+
+     x  3 5 6 1
+f^-1(x) 2 3 4 5
+
+In our same example, compute: ( 'o' is "composition")
+
+f^-1 o f(2) = f^-1(f(2)) = f^-1(3) = 2
+f^-1 o f(3) = f^-1(f(3)) = f^-1(5) = 3
+f^-1 o f(4) = f^-1(f(4)) = f^-1(6) = 4
+f^-1 o f(5) = f^-1(f(5)) = f^-1(1) = 5
+
+f o f^-1(3) = f(f^-1(3)) = f(2) = 3
+f o f^-1(5) = f(f^-1(5)) = f(3) = 5
+f o f^-1(6) = f(f^-1(6)) = f(4) = 6
+f o f^-1(1) = f(f^-1(1)) = f(5) = 1
+
+Key Fact 3. f^-1 o f(x) = x and f o f^-1(x) = x. This is the
+mathematical way of saying that f and f^-1 undo each other.
+
+Example. f(x) = x^3. Guess what the inverse of f should be. Remember,
+f^-1 undoes the work that f does.
+
+f^-1(x) = x^1/3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Find the inverse of the function:
+
+f(x) = (5 - x) / 3x
+
+y = (5 - x) / 3x
+
+x = (5 - y) / 3y (reverse the roles of y and x)
+				 (solve for y)
+
+3yx = 5 - y
+3yx + y = 5
+y(3x + 1) = 5
+y = 5(3x+1)
+
+f^-1 = 5 / (3x+1)
+
+Note. f^-1(x) means the inverse function for f(x). 
+Note that f^-1(x) != 1/f(x).
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Question. Do all functions have inverse functions? That is, for any
+function that you might encounter, is there always a function that is
+its inverse?
+- No.
+
+Try to find an example of a function that does not have an inverse 
+function.
+- (IMPORTANT. !function! means that for each x in domain, there is only
+one corresponding y-value) => e.g. f(x^2) 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Key Fact 4. A function has an inverse function if and only if the graph
+of f satisfies the forizontal line test (i.e. every horizontal line 
+intersects the graph of y = f(x) in at most one point)
 
 
+
+
+
+Definition. A function is one-to-one if it passes the horizontal line
+test. Equivalently, a function is one-to-one if for any two different
+x-values x1 and x2, f(x1) and f(x2) are different numbers. Sometimes,
+this is said: f is one-to-one if, whenever f(x1) = f(x2), then x1=x2.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. (Tricky) Find p^-1(x), where p(x) = (x-2)^1/2 drawn on graph.
+Graph p^-1(x) on the same axes as p(x).
+
+
+For the function p(x) = (x-2)^1/2, what is: 
+ the domain of p? 		 x >= 2, [2, +Inf)
+ the range of p? 		 y >= 0, [0, +Inf)
+ the domain of p^-1?     x >= 0, [0, +Inf)
+ the range of p^-1?		 y >= 2, [2, +Inf)
+
+Key Fact 5. For any inverible function f, the domain of f^-1(x) is 
+the range of f(x) and the range of f^-1(x) is the domain of f(x).
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Inverse Functions:
+
+1) reverse the roles of y and x
+2) the graph of y = f^-1(x) is the graph of y = f(x) reflected over the
+line y = x
+3) f o f^-1(x) = x
+   f^-1 o f(x) = x
+4) f(x) has an inverse fn if and only if the graph of y = f(x) satisfies
+the horizontal line test
+5) the domain of f(x) is the range of f^-1(x) and the range of f(x) is 
+the domain of f^-1(x)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Angles and Their Measures
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Angles are commonly measured using either degrees or radians
+
+For degrees
+ > a full circle measures 360 deg
+ > a half circle measures 180 deg
+ 	1/3 of circle measures 120 deg
+
+For radians:
+
+ > a full circle measures 2 Pi radians
+ > a half circle measures 1 Pi radian
+ 	1/4 of circle measures 1/2 Pi radians
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Note. To convert between degrees and radians, it is handy to use the 
+fact that 180 deg equals Pi radians.
+
+Example. Conver -135deg to radians.
+-135 deg * Pi radians / 180 deg = - 135/180*Pi radians
+
+Example. Convert 5Pi/4 radians to degrees.
+5Pi/4 * 180deg/Pi = 5*180/4 = 225deg
+
+Example. Convert 7 radians to degrees.
+7 radians * 180 deg / Pi radians = 1260 deg / Pi
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sometimes, angles are given in terms of degrees, minutes, and seconds,
+as in 32deg17'25"
+
+A minute is 1/60 degree. 60 minutes = 1 degree.
+
+A second is 1/60 minute = 1/3600 degree.  3600 seconds = 1 degree.
+
+Example. Convert 32deg17'25" to a decimal number of degrees.
+
+32 deg + 17/60deg + 25/3600 deg = 32.2903 deg
+
+
+Example. Convert 247.3486deg to degrees, minutes, and seconds.
+
+247deg + 0.3486deg = 247 deg + 20.916' = 247deg + 20deg + 54.96" = 
+= 247deg20'55"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Arclength and Areas of Sectors
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The circumference of a circle is given by the formula C = 2 * Pi * r
+
+Example. A circular pool has a radius of 8 meters. Find the arclength
+spanned by a central angle of 2.5 radians.
+
+C = 2 Pi * 8m = 16Pi m
+
+arclength = fraction of circle * circumference = 
+= 2.5 rad / 2Pi rad * 2Pi * 8m = 2.5 * 8m = 10m.
+
+The arclength is related to the angle it spans according to the formula.
+arclength = (O / 2Pi) * (2Pi * r) = O * r radians  | O - Theta
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Area of a circle is given by the formula A = Pi * r^2
+
+Example. Find the area of a sector of a circle of radius 10 meters, that
+spans an angle of Pi/6 radians.
+
+Area of circle = Pi(10m)^2 = 100*Pi m^2
+Area of sector = fraction of circle * area of circle =
+= (Pi/6 radians)/(2Pi radians) * 100 Pi m^2 = 26.18 m^2  
+
+
+The area of a sector is related to the angle is spans according to the formula 
+
+area of sector = (Theta {in radians} / 2Pi {radian in circle}) * Pi * r^2
+
+area of sector = (Theta {in radians} / 2 ) * r^2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Linear and Radial Speed
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Consider a spinning wheel.
+
+Definition. The angular speed is angle it goes through in a unit of time 
+and has units of angle/time radius/sec or deg/min etc.
+
+Definition. The linear speed is distance a point on rim of wheel travels
+in a unit of the time ~> dist/time
+and has units of m/sec, ft/min et.c
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. A ferris wheel with radius 20m is making 1 revolution every 2 minutes. What is its angular speed? The lieanr speed of a point on
+its rim?
+
+1 rev / 2 min = 1/2 rev/min
+
+angular speed = 1/2 rev/min * 2Pi rad / 1 rev =
+= Pi radians / minute
+
+linear speed = (Pi radians / min) * (2Pi * 20m / 2Pi radians) = 
+= 20 Pi m/min
+
+The linear speed (v) is related to the angular speed (w (omega)) by 
+the formula v = w (omega) * circumferece / 2Pi = w * (2Pi * r) / 2Pi = 
+= w * r {omega * radius}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1:33:04
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
