@@ -704,5 +704,252 @@ the formula v = w (omega) * circumferece / 2Pi = w * (2Pi * r) / 2Pi =
 1:33:04
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Right Angle Trigonometry
+
+(sin, cos, tan, sec, csc, cot)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+For a right triangle with sides a, b and c and angle Theta
+
+
+	|\
+	| \
+  a |  \ c
+	| T \
+	|__/_\
+	  b
+
+sin Theta = opposite / hypotenuse  = a / c
+cos Theta = adjacent / hypotenuse  = b / c
+tan Theat = opposite / adjacent    = a / b 
+
+SohCahToa
+
+tan = sin / cos = (opp / hyp) / (adj / hyp) = (opp / hyp) * (hyp / adj)
+= opp / adj = tan
+
+sec Theta = 1 / cos = 1 / (adj / hyp) = hyp / adj = c / b
+csc Theta = 1 / sin = 1 / (opp / hyp) = hyp / opp = c / a
+cot Theta = 1 / tan = 1 / (opp / adj) = adj / opp = b / a
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Find the exact values of all six trig functions of angle Theta
+in this right triangle.
+
+
+	|\
+	|_\
+  a |T \ c=5
+	|   \
+	|____\
+	  b=2
+
+opposite of T = b = 2
+adjacent to T = a = 21^1/2 = v21'
+hypotenuse    = c = 5
+
+a = (5^2 - 2^2)^1/2 = 21^1/2
+
+sin Theta = opposite / hypotenuse  = b / c = 2 / 5
+cos Theta = adjacent / hypotenuse  = a / c = v21' / 5
+tan Theat = opposite / adjacent    = b / a = 2 / v21'
+
+sec Theta = 1 / cos = 1 / (adj / hyp) = hyp / adj = c / a = 5 / v21'
+csc Theta = 1 / sin = 1 / (opp / hyp) = hyp / opp = c / b = 5 / 2
+cot Theta = 1 / tan = 1 / (opp / adj) = adj / opp = a / b = v21' / 2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. A kite is flying at an angle of elevation of 75deg, with 100m
+of kite string let out. How high is the kite?
+
+ kite	100m hypotenuse \
+y |           o
+  |  75deg/  -+-
+  |_________  ^
+
+x = ?
+y = ?
+c = 100
+Theta = 75deg
+
+sin = opp / hyp
+sin 75deg = y / 100
+y = 100m * sin75deg 
+y = 96.59m
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sine and Cosine of Special Angles
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Without using a calcultaor, find sin(45deg) and cos(45deg) 
+using a right triangle with hypotenuse 1.
+
+opp^2 = hyp^2 - adj^2, opp = adj
+opp^2 = 1 - opp^2
+2*opp^2 = 1
+opp^2 = 1/2
+opp = adj = v1/2' = v1' / v2' = 1 / v2' * (v2' / (v2' * v2') ) = v2' / 2
+
+sin(45deg) = opp / hyp = opp / 1 = opp = v1/2'
+cos(45deg) = adj / hyp = adj / 1 = adj = opp = v1/2'
+
+Example. Without using a calculator, find sin(45deg) and cos(45deg) 
+using a right triangle with hypotenuse 5.
+
+opp^2 = hyp^2 - adj^2, opp = adj
+opp^2 = 1 - opp^2
+2*opp^2 = 5
+opp^2 = 5/2
+opp = adj = v5/2' = 5*v2'/2
+
+sin(45deg) = opp / hyp = opp / 1 = opp = (5*v2'/2) / 5 = v2'/2
+cos(45deg) = adj / hyp = adj / 1 = adj = opp = (5*v2'/2) / 5 = v2'/2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Without using a calculator, find sin(30deg) and cos(30deg).
+
+Angles a(30deg), b(60deg), c(90deg)
+c (hypotenuse) = 1
+
+mirror the triangle => all angles = 60deg & all edges = 1 =>
+=> side opposite to 30deg = 1/2
+sin(30deg) = 1/2 / 1  = 1/2
+
+adj to 30deg side = v/ 1^2 - 1/2^2 ' = v3/4' = v3' * 1 /2 = v3'/2
+
+cos(30deg) = v3'/2 / 1 = v3'/2
+
+Example. Without using a calculator, find sin(60) and cos(60).
+
+sin(60) = opp / hyp = cos(30) = v3'/2
+cos(60) = adj / hyp = sin(30) = 1/2
+
+To summarize:
+
+------------- -------------- --------------- ---------------
+ angle (deg)   angle in rad        cos             sin      
+------------- -------------- --------------- ---------------
+     30            Pi/6           v3'/2        v1'/2 (1/2)   
+     45            Pi/4           v2'/2           v2'/2      
+     60            Pi/3        v1'/2 (1/2)        v3'/2      
+------------- -------------- --------------- ---------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Unit Circle
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Note. Up to now we have defined sine, cosine, and tangent in terms of
+right triangles. 
+
+For example, to find sin(14deg) ... 
+you can draw a right triangle with angle 14deg and calculate sin(14deg)
+sin(14deg) = opp / hyp ... 
+
+What goes wrong if we try to compute sin(120deg) using a right triangle?
+
+This angle is > 90 deg. It means there is no way to complete this 
+triangle to the right triangle.
+
+Definition. The unit circle is a circle of radius 1.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In the figure, a right triangle is drawn in the unit circle. It's top 
+vertex has coordinates (a,b). In terms of a and b,
+
+	> How long is the base of the triangle?
+	> How long is its height?
+
+Using the triangle definition of sine and cosine, what are sin and cos,
+in terms of a and b?
+
+(a,b) is the point of triangle on the circle
+
+cos = a / 1 (x coord of a,b)  
+sin = b / 1 (y coord of a,b) 
+tan = b / a (y coord / x coord of a,b) 
+
+Definition. For angles Theta that can't be part of a right triangle we
+find the point on the unit circle at angle Theta and define
+
+cos = x-coord sin = y-coord tan = y-coord / x-coord
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. For the angle phi (>90deg)
+
+r = 1, (a,b) = (-0.3420, 0.9397)
+
+sin(phi) = 0.9397
+cos(phi) = -0.3420
+tan(phi) = 0.9397 / -0.3420 = -0.36
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Properties of Trig Functions
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Periodic Property: sin and cos are periodic with period 2Pi
+
+cos(Theta+2Pi) = cos(Theta) = cos(Theta+360deg) 
+cos(Theta-2Pi) = cos(Theta) = cos(Theta-360deg) 
+
+sin(Theta+2Pi) = sin(Theta) = sin(Theta+360deg) 
+sin(Theta-2Pi) = sin(Theta) = sin(Theta-360deg) 
+
+Example. Find
+
+1. cos(5Pi) = cos(Pi + 4Pi) = cos(Pi)
+
+2. sin(-420deg) = sin(-4Pi-60deg) = sin(-60deg)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Even Odd Property:
+
+cos - Even function
+cos(-Theta) = cos(Theta)
+
+sin - Odd function
+sin(-Theta) = -sin(Theta)
+
+Example. Determine if tan(Theta) is and even or odd function.
+tan = sin(-Th) / cos(-Th) = -sin / cos = -tan
+
+tan is odd
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Pythagorean Property:
+
+(cos(Theta))^2 + (sin(Theta))^2 = 1
+
+cos^2(Theta) + sin^2(Theta) = 1
+
+Example. If sin(t) = -2/7, and t is angle that lies in quadrant III,
+find cos(t).
+
+cos^2(t) + sin^2(t) = 1
+
+cos^2(t) + (-2/7)^2 = 1
+
+cos^2(t) = 1 - 44/49 = 45/49
+
+cos(t) = +- (45/49)^1/2 = +- v45' / 7
+
+cos(t) = -v45' / 7
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2:04:39
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 */
