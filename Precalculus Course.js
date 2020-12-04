@@ -952,6 +952,58 @@ cos(t) = -v45' / 7
 2:04:39
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Graphs of Sine and Cosine
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The graph of y = cos(x) is the same as the graph of y=sin(x) shifted
+horizontally by cos(x) = sin(x+Pi/2). sin(x) = cos(x-Pi/2)
+
+Domain (-Inf, +Inf)
+Range [-1, 1]
+Even (cos) / odd (sin)
+Abs max and min values (1, -1)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Midline is the horizontal line halfway in between max & min points.
+In this case midlien of cos(x) and sin(x) is y = 0 (x-axis)
+
+Amlitude is the vertical distance between a max point and the midline.
+Amplitude of cos(x) and sin(x) = 1
+
+Period is the horizontal length of the smallest repeating unit. 
+Period of cos(x) and sin(x) = 2Pi
+cos(x+2Pi) = cos(x)
+sin(x+2Pi) = sin(x)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Graphs of Sinusoidal Functions
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+function         middle   amplitude   period
+y = sin(x)       y = 0       1         2*Pi
+y = 3sin(2x)     y = 0       3      1/2 * 2*Pi = Pi
+y = 3sin(2x)+1   y = 1       3                   Pi
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+function y = 3sin(2(x-Pi/4))
+
+y = 3sin(2x)
+f(x) = 3sin(2x)
+g(x) = f(x-Pi/4)
+Shift graph of x to the right by Pi/4
+
+function               middle   amplitude   period
+y = sin(x)             y = 0       1         2*Pi
+y = 3sin(2x)           y = 1       3          Pi
+y = 3sin(2(x-Pi/4))    
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2:16:00
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 */
