@@ -986,7 +986,7 @@ Graphs of Sinusoidal Functions
 function         middle   amplitude   period
 y = sin(x)       y = 0       1         2*Pi
 y = 3sin(2x)     y = 0       3      1/2 * 2*Pi = Pi
-y = 3sin(2x)+1   y = 1       3                   Pi
+y = 3sin(2x)+1   y = 1       3          Pi
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -996,14 +996,109 @@ y = 3sin(2x)
 f(x) = 3sin(2x)
 g(x) = f(x-Pi/4)
 Shift graph of x to the right by Pi/4
+ 
+function y = 3sin(2(x-Pi/4))-1
 
-function               middle   amplitude   period
-y = sin(x)             y = 0       1         2*Pi
-y = 3sin(2x)           y = 1       3          Pi
-y = 3sin(2(x-Pi/4))    
+function               middle amplitude   period       horiz shift
+y = sin(x)             y = 0     1         2*Pi
+y = 3sin(2(x-Pi/4))-1  y =-1     3      1/2*2Pi = Pi  right by Pi/4
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-2:16:00
+
+Summary							    [y=3sin(2(x-Pi/4))-1]
+For the graphs of y=Acos(Bx-C)+D and y=Asin(Bx-C)+d with B positive:
+midline 							[y=3sin(2x-Pi/2)-1]
+> y = D
+amplitude
+> A  (or more prec. abs(A))
+period
+> 1/b*2Pi -> 2Pi/B
+horizontal shift
+> first step is to convert y=Acos(Bx-C)+D to y=Acos(B(x-C/B))+D
+> then the horizontal shift is C/B
+
+y=1/3cos(1/2x+3)-5 => y=1/3cos(1/2(x+6))-5
+middle: y=-5 ampl: 1/3 period 2Pi/(1/2)=4Pi
+horiz shift: 6 units left 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Graphs of Tan, Sec, Cot, Csc
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. What is the slope of the line at angle Theta ... tan(Theta)
+
+ / Theta inside a circle!
+/_\_
+
+> slope is the rise over the run. rise = sin(Theta), run = cos(Theta)
+> slope = rise / run = sin / cos = tan(Theta)
+
+When the angle is zero, the slope is 0
+As the angle increases toward Pi/2, the slope goes to +Infinity
+As the angle goes from zero towards -Pi/2, the slope goes to -Inf
+At exactly Pi/2 and -Pi/2, the slope is undefined
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+y = tan(x) ~ 5 cubic like graphs from (-5/2Pi; 5/2Pi)
+
+x-intercepts: ...-2Pi, -Pi, 0, Pi, 2Pi... Pi*k, k is an integer
+y = tan(x) = sin(x)/cos(x) => y = 0 when sin(x) is 0 at -2Pi,-Pi,0 etc.
+
+vertical asymptotes: ...-3Pi/2, -Pi/2, Pi/2, 3Pi/2..., 
+k*Pi/2, where k is an odd integer (where cos(x)=0)
+
+domain: everything except vert assymptotes
+{x | x != Pi/2*k for k odd integer}
+
+range (-Inf, +Inf)
+
+period: Pi
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sketch a touch graph of y = sec(x) from x = 0 to x = 2Pi
+y=sec(x)=1/cos(x) is mirrored over both y=-1 and y=1 and touches
+y=cos(x) in its local minimums and maximums
+
+x-intercepts: no
+
+vertical asymptotes: Pi/2*k where k is an odd integer (where cos(x) = 0)
+
+domain: {x | x != Pi/2*k for k odd integer}
+
+range: (-Inf, -1] u [1; +Inf]
+
+period: 2Pi
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2:30:10
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 */
