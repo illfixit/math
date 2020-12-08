@@ -1083,6 +1083,226 @@ Graphs of Tan, Sec, Cot, Csc
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+y = csc(x) = 1/sin(x)
+y = 2csc(Pi*x+Pi/2) + 1
+
+    				  1 - shift up by 1
+    		  Pi/2 indices the horiz. shift but NOT by Pi/2 (dep on x)
+		 Pi - shrinks horizontally by 1/Pi 
+    2 - vertical shift by 2
+
+period = 2Pi/Pi = 2
+
+y = 2csc(Pi(x+1/2))+1
+			  1/2 - horizontal shift by 1/2 to the left
+
+Vertical asymptote
+y = 2csc(Pi(x+1/2))+1
+csc = 1/sin
+csc(Pi(x+1/2)) doesn't exist when sin(Pi(x+1/2)) = 0
+i.e when Pi(x+1/2) = k*Pi   | /Pi
+			x+1/2  = k
+<=> x = k - 1/2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Find the equation of this graph... :)
+
+Looks like a tan(x)
+but it has period of -3;1 -> period = 4
+looks more like y = tan(Bx), where
+Pi/B = 4 => B = Pi/4
+
+Maybe y=tan(Pi/4 * (x+1)) + 1
+
+The graph intersect y in 2, so maybe
+y=A*tan(Pi/4*(x + 1)) + 1
+plug in the point (0,2)
+
+2 = A*tan(Pi/4(0+1))+1
+2 = A*(1)+1
+A = 1
+
+so the function is y = tan( Pi/4 * (x+1) ) + 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+For the function y = A*tan(Bx-C)+D, how do the numbers A,B,C, and D
+affect the graph? (Assume B>0) Original period of tan, cot = Pi.
+
+A - vertical stretch
+
+B - changes the period from Pi to Pi/B
+
+C - we need to rewrite f to y = A*tan(B(x-C))+D -> C/B - phase shift
+    right by C/B
+
+D - shifts vertically by D
+
+For the function y = A*sec(Bx-C)+D, how do the numbers A,B,C, and D
+affect the graph? (Assume B>0)
+
+y = A*sec(Bx-C)+D or y = A*csc(Bx-C)+D, period of sec, csc is 2Pi
+
+B changes the period from 2Pi to 2Pi/B
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Inverse Trig Functions
+
+sin^-1(x)
+cos^-1(x)
+tan^-1(x)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Inverse Sine Function (arcsin)
+
+Graph... :) arcsin(x) is flipped over y = x but fails vertical test
+so it is limited
+
+Restricted sin(x) has Domain: [-Pi/2;Pi/2] Range: [-1,1]
+
+arcsin(x) has Domain:[-1,1] Range: [-Pi/2;Pi/2]
+
+arcsin(x) is the angle between -Pi/2 and Pi/2 whose sine is x
+
+y = arcsin(x) means: x = sin(y), -Pi/2 <= y <= Pi/2
+
+Alternative Notation: sin^-1(x) means arcsin(x)
+
+Warning: sin^-1(x) != csc(x) or 1/sin(x)
+		 sin^-1(x) = arcsin(x)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Inverse Cosine Function (arccos)
+
+Graph... :) arccos(x) is flipped over y = x but fails vertical test
+so it is limited
+
+Restricted cos(x) has Domain: [0;Pi] Range: [-1,1]
+
+arccos(x) has Domain:[-1,1] Range: [0;Pi]
+
+arccos(x) is the angle between 0 and Pi whose cosine is x
+
+y = arccos(x) means: x = cos(y), 0 <= y <= Pi
+
+Alternative Notation: cos^-1(x) means arccos(x)
+
+Warning: cos^-1(x) != sec(x) or 1/cos(x)
+		 cos^-1(x) = arccos(x)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Inverse Tangent Function (arctan)
+
+Graph... :) arctan(x) is flipped over y = x but fails vertical test
+so it has very limited range (y-values)
+
+Restricted tan(x) has Domain: [-Pi/2;Pi/2] Range: [-Inf,+Inf]
+
+arctan(x) has Domain: [-Inf,+Inf] Range: [-Pi/2;Pi/2]
+
+arctan(x) is the angle between -Pi/2 and Pi/2 whose tan is x
+
+y = arctan(x) means: x = tan(y), -Pi/2 <= y <= Pi/2
+
+Alternative Notation: tan^-1(x) means arctan(x)
+
+Warning: tan^-1(x) != cot(x) or 1/tan(x)
+		 tan^-1(x) = arctan(x)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Solving Basic Trig Equations
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. For the equation 2 cos(x) + 1 = 0
+
+(a) Find the solutions in the interval [0, 2Pi).
+
+2cos(x)=-1
+cos(x)=-1/2
+
+x is 2Pi/3 and 4Pi/3
+
+(b) Give a general formula for All solutions ( not hust those in the
+interval [0,2Pi) ) 
+
+2Pi/3 + 2Pi (+4Pi etc.) and 4Pi/3 + 2Pi (+4Pi etc.)
+or 
+2Pi/3 + 2Pi*k and 4Pi/3 + 2Pi*k for k any integer
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. For the equation 2tan(x) = v3' - tan(x)
+
+(a) Find the solutions in the interval [0, 2Pi)
+
+3*tan(x) = v3'
+tan(x) = v3'/3
+
+tan(x)=sin(x)/cos(x) = v3'/3
+
+tan(Pi/6) = sin(Pi/6)/cos(Pi/6) = 1/2 / v'3/2 = 1/3 * v3'/v3' = v3'/3
+
+
+
+
+(b) Give a general formula for ALL solutions
+tan(Pi/3) = v3' != v3'/3
+tan(4Pi/3) = v3' != v3'/3
+
+tan(7Pi/6) = v3'/3
+
+=> x = Pi/6 + 2Pi*k, x = 7Pi/6 + 2Pi*k, for k any integer
+and x = Pi/6 + Pi*k, for k any integer
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Solving Basic Trig Equations
+
+1) isolating sin(or tan or cos)
+
+2) using unit circle to find principal solutions (between 0 & 2Pi)
+
+3) adding multiples of 2Pi to find all solutions
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Solving Trig Equations that Require a Calculator
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. For the equation 2cos(t) = 1 - cos(t)
+
+(a) Find all solutions in the interval [0, 2Pi]
+
+3*cos(t) = 1
+cos(t) = 1/3 (has many solutions)
+
+arccos(cos(1/3)) = arccos(1/3)
+t = arccos(1/3) = 1.2310 unlike cos(t)=1/3 has only 1 solution that
+lies between angles 0 and Pi 
+
+The other solution in [0; 2Pi) is given by 2Pi-1.2310 = 5.0522 rad
+x =1.2310rad, 5.0522rad
+We found the second solution by 2Pi - (first solution)
+
+(b) Find all solutions.
+x = 1.2310 + 2Pi*k, 5.0522 + 2Pi*k
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3:00:07
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
