@@ -1299,12 +1299,250 @@ x = 1.2310 + 2Pi*k, 5.0522 + 2Pi*k
 3:00:07
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- 
+Example. For the equation 4sin(x)-1=2
+(a) Find all solutions in the interval [0, 2Pi)
+4sin(x)=3
+sin(x)=3/4
+arcsin(sin(x)) = arcsin(3/4)
+
+x = arcsin(3/4) = 0.8481rad
+x = arcsin(Pi-3/4) = Pi - 0.8481 = 2.2935rad
+x = 0.8481rad, 2.2935rad
+
+(b) Find all solutions.
+x = 0.8481rad + 2Pi*k, 2.2935 + 2Pi*k k - integer
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Example. For the equation tan(x) = 4
+(a) Find all solutions in the interval [0, 2Pi)
+x = tan^-1(4) = 1.3258
+or
+Pi + 1.3258 = 4.4674
+
+x = 1.3258, 4.4674
+
+(b) Find all solutions.
+x = 1.3258 + 2Pi*k, 4.4674 + 2Pi*k =
+x = 1.3258 + Pi*k
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Summary:
+
+(a) To find solutions to the equation cos(t) = M
+t = cos^-1(M) + 2Pi*k
+2Pi - cos^-1(M) + 2Pi*k
+
+(b) To find solutions to the equation sin(t) = N
+t = sin^-1(N) + 2Pi*k
+Pi - sin^-1(N) + 2Pi*k
 
 
+(c) To find solutions to the equation tan(t) = P
+t = tan^-1(P) + 2Pi*k
+tan^-1(P) + Pi + 2Pi*k
+or tan^-1(P) + Pi*k
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Introducing to Trig Identities
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Find solutions to the following equations:
+
+(a) x^2 - 6*x = 7
+x^2 - 6x - 7 = 0
+(x-7)(x+1) = 0
+
+x = 7
+x = -1
+
+(b) x^2 - 6*x = 7 + (x-7)(x+1)
+x^2 - 6*x = 7 + x^2 + x - 7x - 7
+x^2 - 6*x = x^2 - 6*x
+
+solutions: all real numbers.
+
+Definition. The second equation is called an identity because it holds
+for all values of the variable.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Decide which of the following equations are identites.
+
+a) sin(2x) = 2sin(x) - not an identity
+
+x = 0 => sin(2*0) = 0 = 2(sin(0))
+x = Pi/2 => sin(2 * Pi/2) = 0 != 2 = 2(sin(Pi/2)) = 2*1
+
+b) cos(Theta+Pi) = -cos(Theta) - is an identity
+
+cos(0+Pi) = -cos(0)
+cos(Pi/6+Pi) = -cos(Pi/6)
+
+c) sec(x)-sin(x)tan(x) = cos(x) - is an identity
+sec(x)-sin(x)tan(x) = cos(x)
+1/cos(x) - sin(x)*sin(x)/cos(x) = cos(x)
+1/cos(x) - sin^2(x)/cos(x) = cos(x)
+(1 - sin^2(x))/cos(x) = cos(x) | cos^2(x) + sin^2(x) = 1
+cos^2(x)/cos(x) = cos(x) v true
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Introduction to Trig Identities
+
+To prove that an equation is an identity
+> use algebra
+> use other identities like the Pythag identities
+rewrite one side of equation to get other side
+
+To prove that an equation is not an identity
+> plug numbers that "break it"
+
+To decide if an equation is an identity
+> plug in numbers
+> graph left and right sides
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Pythagorean Identities
+
+(1) cos^2(Theta) + sin^2(Theta) = 1
+(2) tan^2(Theta) + 1 = sec^2(Theta)
+(3) cot^2(Theta) + 1 = csc^2(Theta)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+cos^2(Theta) + sin^2(Theta) = 1
+
+Paint Unit circle with a right triangle inside 
+ and a common dot(cos(Theta), sin(Theta))
+
+
+    (cos(Theta), sin(Theta))
+   /|
+ 1/ | sin(Theta)
+ /  |
+/_\_|
+cos(Theta)
+
+
+By Pythagorean Theorem
+(cos(Theta))^2 + (sin(Theta))^2 = 1^2
+cos^2(Theta) + sin^2(Theta) = 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tan^2(Theta) + 1 = sec^2(Theta)
+
+cos^2(Theta) + sin^2(Theta) = 1 | / cos^2(Theta)
+
+1 + sin^2(Theta)/cos^2(Theta) = 1/cos^2(Theta)
+
+1 + (sin(Theta)/cos(Theta))^2 = 1/cos^2(Theta)
+
+1 + tan^2(Theta) = 1 / cos^2(Theta)
+
+tan^2(Theta) + 1 = sec^2(Theta)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+cot^2(Theta) + 1 = csc^2(Theta)
+
+cos^2(Theta) + sin^2(Theta) = 1 | / sin^2(Theta)
+
+cot^2(Theta) + 1 = 1/sin^2(Theta)
+
+cot^2(Theta) + 1 = csc^2(Theta)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sum and Difference Formulas
+
+(sin(A+B), cos(A+B), sin(A-B), cos(A-B))
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Question. Is it true that sin(A+B) = sin(A) + sin(B)? No
+
+For example: A = Pi/2, B = Pi
+> sin(Pi/2+Pi) = sin(3Pi/2) = -1 != 1 = sin(Pi/2) + sin(Pi)
+
+sin(A+B) = sin(A)cos(B) + cos(A)sin(B)
+
+cos(A+B) = cos(A)cos(B) - sin(A)sin(B)
+
+
+sin(A-B) = sin(A + (-B)) = sin(A)cos(-B)+cos(A)sin(-B) =
+= sin(A)cos(B) + cos(A)(-sin(B)) = 
+= sin(A)cos(B) - cos(A)sin(B) 
+
+cos(A-B) = cos(A+(-B)) = cos(A)cos(B) - sin(A)sin(B) =
+= cos(A)cos(B) + sin(A)sin(B)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Find an exact value for sin(105deg)
+
+105deg = 60deg + 45deg
+
+sin(105) = sin(60+45) = sin(60)cos(45)+cos(60)sin(45) =
+= v3'/2 * v2'/2 + 1/2 * v2'/2 = ('v6' + v2')/4
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. If cos(v) = 0.9 and cos(w) = 0.7, find cos(v+w). 
+Assume v and w are in the first quadrant.
+
+cos(v+w) = cos(v)cos(w)-sin(v)sin(w) = 0.9*0.7 - sin(v)sin(w) = 
+0.63 - ((1-0.81)^1/2)((1-0.49)^1/2) = 0.63 - (v0.19')(v0.51') = 0.3187
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sum and Difference Formulas
+
+sin(A+B) = sin(A)cos(B) + cos(A)sin(B)
+cos(A+B) = cos(A)cos(B) - sin(A)sin(B)
+
+sin(A-B) = sin(A)cos(B) - cos(A)sin(B) 
+cos(A-B) = cos(A)cos(B) + sin(A)sin(B)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Proof of the Angle Sum Formulas
+
+sin(A+B) = sin(A)cos(B) + cos(A)sin(B)
+cos(A+B) = cos(A)cos(B) - sin(A)sin(B)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Proof of the angle sum formula:
+
+sin(A+B) = sin(A)cos(B) + cos(A)sin(B)
+cos(A+B) = cos(A)cos(B) - sin(A)sin(B)
+
+Draw an angle A and an angle B on top of it.
+Make a right triangle from angle B
+Draw a rectangle around the triangle 
+(they touch on top and right sides)
+
+Let hypothenuse of 'B' triangle (from '0' to point on top side) = 1 
+The angle on top that is alternate interior to B = A+B
+
+Then calculate all other sides in terms of cos(B),sin(B),cos(A),cos(B)
+We got parallel sides of rectangular. 
+Left side = sin(A+B), right side = sin(A)cos(B) + cos(A)sin(B) =>
+sin(A+B) = sin(A)cos(B) + cos(A)sin(B)
+
+Top side = cos(A+B) + sin(A)sin(B)
+Bottom side = sin(A)cos(B)
+They are equal => cos(A+B) = sin(A)cos(B) - sin(A)sin(B)
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3:31:09
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
