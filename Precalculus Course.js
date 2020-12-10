@@ -1547,18 +1547,236 @@ They are equal => cos(A+B) = sin(A)cos(B) - sin(A)sin(B)
 
 Double Angle Formulas
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
+sin(2Theta)
+cos(2Theta)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Question. True or False: sin(2Theta) = 2sin(2Theta) False
+
+Double Angle Formulas:
+sin(2Theta) = 2sin(Theta)cos(Theta)
+
+sin(A+B) = sinAcosB+cosAsinB
+sin(A+A) = sinAcosA+cosAsinA = 2sinAcosA
+
+cos(2Theta) = cos^2(Theta) - sin^2(Theta)
+
+cos(A+B) = cosAcosB - sinAsinB
+cos(A+A) = cosAcosB - sinAsinA = cos^2A - sin^2A
+
+cos(2Theta) = 1 - 2sin^2(Theta)
+cos(2Theta) = 2cos^2(Theta) - 1
+
+cos^2(Theta) + sin^2(Theta) = 1
+cos^2(Theta) = 1 - sin^2(Theta)
+cos(2Theta) = cos^2(Theta)-sin^2(Theta)
+cos(2Theta) = 1 - sin^2(Theta) - sin^2(Theta) = 1 - 2sin^2(Theta)
+
+cos^2(Theta) + sin^2(Theta) = 1
+sin^2(Theta) = 1 - cos^2(Theta)
+cos^2(Theta) = 1 - sin^2(Theta)
+cos(2Theta) = cos^2(Theta)-sin^2(Theta)
+cos(2Theta) = cos^2(Theta) - (1-cos^2(Theta))
+cos(2Theta) = 2cos^2(Theta) - 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. 
+Find cos(2Theta) 
+if cos(Theta) = - 1/v10' and Theta terminates in quadrant III
+
+cos(2Theta) = 2cos^2(Theta)-1
+
+cos(2Theta) = 2(-1/v10')^2 - 1 = 2/10 - 1 = -0.8
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Solve the equation 2cos(x) + sin(2x) = 0.
+
+2cos(x) + 2sin(x)cos(x) = 0 
+
+2cos(x)(1+sin(x)) = 0
+
+2cos(x) = 0 or 1 + sin(x) = 0
+
+x = Pi/2 + 2Pi*k, 3Pi/2 + 2Pi*k
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Double Angle Formulas
+
+sin(2Theta) = 2sin(Theta)cos(Theta)
+cos(2Theta) = cos^2(Theta) - sin^2(Theta)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Half Angle Formulas
+
+cos(Theta/2)
+sin(Theta/2)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Half Angle Formulas:
+
+cos(Theta/2) = +- v(1+cos(Theta))/2' +- depends on quadrant
+
+sin(Theta/2) = +- v(1-cos(Theta))/2'
+
+cos(2x) = 2cos^2(x) - 1
+Theta = 2x => x = Theta/2
+cos(Theta) = 2cos^2(Theta/2) - 1  | +1
+cos(Theta) + 1 = 2 cos^2(Theta/2) | /2
+(cos(Theta) + 1) / 2 = +- v(1+cos(Theta))/2'
+cos(Theta/2) = +- v(1+cos(Theta))/2'
+
+cos(2x) = 1 - sin^2(x)
+Theta = 2x => x = Theta/2
+cos(Theta) = 1 - 2sin^2(Theta/2) 
+2sin^2(Theta/2) = 1 - cos(Theta)
+sin^2(Theta/2) = (1 - cos(Theta)) / 2
+sin(Theta/2) = +- v(1-cos(Theta))/2'
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. 
+Suppose that sin(Theta) = 4/5 and Pi/2 < 0 < Pi.
+Find the exact values of cos(Theta/2) and sin(Theta/2) (here both posit)
+
+cos(Theta/2) = + v(1+cos(Theta))/2'
+sin(Theta/2) = + v(1-cos(Theta))/2'
+
+sin(Theta) = 4/5 => |cos(Theta)| = 3/5 (3,4,5 Pyth triangle),
+Pi/2 < Theta < Pi => cos(Theta) = -3/5 (neg)
+
+cos(Theta/2) = v(1-3/5)/2' = v 2/5 / 2 ' = v1/5' = 1/v5'
+
+sin(Theta/2) = v(1-(-3/5))/2' = v 8/5 / 2 ' = 2/v5'
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Half Angle Formulas
+
+cos(Theta/2) = +- v(1+cos(Theta))/2' +- depends on quadrant
+
+sin(Theta/2) = +- v(1-cos(Theta))/2'
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Solving Right Triangles
+
+Find lengths of all sides & Measures of angles
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Solve the right triangle
+
+49deg + 90deg + a = 180deg
+A = 41deg
+
+tan49deg = opp / adj = b / 23 => b = 23tan49deg = 26.46
+or tan(41deg) = 23 / b => b = btan(41deg) = 23 =>
+b = 23 / tan(41deg) = 26.46
+
+cos49deg = adj/hyp = 23 / c => c cos49deg = 23 => c = 23/cos49 = 35.06
+or
+c = (23^2 + b^2)^1/2 = (23^2 + 26.46^2)^1/2 = 35.06
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Solve the right triangle.
+
+cos(Theta) = 10/15 => Theta = cos(10/15) = 0.8411 rad = 48.19deg
+
+Phi + 90 + 48.19deg = 180deg => Phi = 41.81deg
+
+tan48.19deg = x/10
+
+10^2 + x^2 = 15^2
+x = v15^2 - 10^2' = 11.18
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Law of cosines
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Pythagorean Theorem <-----> Law of cosines
+
+She suggests to think about Law of cosines as generalization of the
+Pythagorean Theorem to not right triangles.
+
+~ c^2 = a^2 + b^2 + correction factor
+
+right angle => c^2 = a^2 + b^2
+angle = 85deg => c^2 < a^2 + b^2 = c^2 = a^2 + b^2 -(a bit)
+angle = 95deg => c^2 > a^2 + b^2 = c^2 = a^2 + b^2 +(a bit)
+
+Theorem. (The Law of Cosines) For any triangle with sides a, b, and c 
+and angle C opposite side c, 
+c^2 = a^2 + b^2 - 2*a*b*cos(c)
+
+if c = 90deg => cos(c) = 0 => c^2 = a^2 + b^2
+if c < 90deg => cos(c) > 0 => 2*a*b*cos(c) > 0
+if c > 90deg => cos(c) < 0 => 2*a*b*cos(c) < 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Notation conventions:
+
+The Law of Cosines can be written in three forms:
+
+sides are marked as lowercase letters a,b,c...
+angles are marked as uppercase letters A,B,C...
+side opposite to angle A is a, opposite to B is b, opposite to C is c
+
+c^2 = a^2 + b^2 - 2abcos(C)  c  a  b  C ->
+a^2 = b^2 + c^2 - 2bccos(A)  a  b  c  A ->
+b^2 = a^2 + c^2 - 2bccos(B)  b  a  c  B
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Find all side lengths and angles of this triangle.
+
+a = 8, b = 11, c = ?
+A = ?, B =  ?, C = 37deg
+
+c^2 = a^2 + b^2 -2abcosC
+c^2 = 8^2 + 11^2 - 2*8*11*cos(37deg)
+c^2 = 44.44
+c = 6.67
+
+b^2 = a^2 + c^2 -2abcosB
+11^2 = 8^2+6.67^2 = -2(8)(6.67)cosB
+cosB = -0.1172
+B = 96.73
+
+A + 37deg + 96.73deg = 180deg
+A = 46.27deg
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Find the angles of this triangle
+
+a = 8, b = 15, c = 13
+
+c^2 = a^2 + b^2 - 2abcos(C) => cos(C) = 0.5 => C = arccos(0.5) = 60deg
+a^2 = b^2 + c^2 - 2bccos(A) => cos(A) = 0.8462 => A = ... = 32.20deg
+b^2 = a^2 + c^2 - 2bccos(B) => cos(B) = 0.0385 => B = ... = 87.79deg
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Law of Cosines 
+
+c^2 = a^2 + b^2 - 2abcos(C) 
+a^2 = b^2 + c^2 - 2bccos(A)
+b^2 = a^2 + c^2 - 2bccos(B)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4:09:43
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 */
