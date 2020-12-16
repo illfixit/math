@@ -1778,6 +1778,176 @@ b^2 = a^2 + c^2 - 2bccos(B)
 4:09:43
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Law of Sines
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Theorem. (Law of Sines) 
+
+For a triangle with angles A, B and C and  opposite sides a, b, and c, 
+
+sinA / a = sinB / b = sinC / c
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Suppose A = 55deg, C = 67deg, b = 20. Solve the triangle
+
+B = 180 - 55 - 67 = 58deg
+
+sinA / a = sinB / b = sin(58deg) / 20
+
+sin(55deg) =  a * sin(58deg) / 20
+
+a = sin(55deg) * 20 / sin(58deg)
+
+a = 19.32
+
+sinC / c = sinB / b = sinA/ a
+
+c = sin(67deg) * 20 / sin(58deg)
+
+c = 21.71
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. (an ambiguous case) Suppose that a = 8 and b = 7, and B=40deg.
+Solve the triangle, finding all possible solutions.
+
+There could be two different angles with the same sine.
+Ex: if sinA = 1/2 then A = 30deg or 150deg.
+
+sinA / 8 = sin(40deg) / 7 = sinC / c
+
+sinA = 8 * sin(40deg) / 7 = 0.7346
+A = sin^-1(0.7346) = 47.27deg or (180 - 47.27) = 132.73deg =>
+
+1st) triangle with a = 8, b = 7, B = 40, A = 47.27, 
+C = 180 - B - A = 92.73deg => c = 10.88
+
+2nd) triangle with a = 8, b = 7, B = 40, A = 132.73
+C = 180 - B - A = 7.27deg => c = 1.38
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Law of Sines
+
+AngleSideAngle - unambiguous case
+SideSideAngle - ambiguous case (sometimes 2 possible triangles) 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Parabolas: Vertex, Focus, and Directrix
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Find the equation of the points equidistant from the 
+point (0,p) and the horizontal line y = -p.
+
+distance from y = -p
+y - (-p)
+y + p
+
+point (x,y)
+distance from (0,p) 
+
+v(x-0)^2 + (y-p)^2'
+
+v(x-0)^2 + (y-p)^2' = y + p | ^2
+
+x^2 + (y-p)^2 = y^2 + 2py + p^2 
+
+x^2 + y^2 -2py + p^2 = y^2 + 2py + p^2
+
+x^2 -2py = 2py
+
+x^2 = 4py
+
+y = x^2 / 4p -> vertical stretch of y = x^2 or shrink to y =(1/4p)*x^2
+
+In this case 
+(0,0) is the vertex
+(0,p) is the focus
+y = -p is the directrix
+
+x^2 = 4py
+p represents the distance between the vertex & to directrix
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Find the equation of the points equidistant from the
+point (p,0) and the vertical line x = -p
+
+(x,y)
+(p,0)
+
+v(x-p)^2 + (y-0)^2' = x + p
+y^2 -2px = 2px
+
+y^2 = 4px
+x = y^2 * 1/4p
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Find the equation of a parabola with vertex at (h,k),
+assuming the parabola opens up or down.
+
+x^2 = 4py
+
+y = x^2 * 1/4p
+
+y = 1/4p * (x-h)^2 + h
+
+(x-h)^2 = 4p(y-k)
+
+Example. Find the equation of a parabola with vertex at (h,k),
+assuming the parabola left of right.
+
+y^2 = 4px
+(y-k)^2 = 4p(x-h)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Find the equation of a parabola with vertex at (2,4) and focus
+at (-1,4). Graph the parabola. 
+
+(y-k)^2 = 4p(x-h)
+		= (h,k) = (2,4)
+	    p = -3 (p<0 because parabola opens left, not right)
+
+(y-4)^2 = 4(-3)(x-2)
+(y-4)^2 = -12*(x-2)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ellipses
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Recall: A circle can be defined as the set of points whose distance
+from a fixed part is a constant
+
+Note. An ellipse can be deefined as the set of points such thaat the 
+sum of the distances from two fixeed points is a constant.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4:30:12
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Features
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 */
