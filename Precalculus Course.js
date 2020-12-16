@@ -1933,8 +1933,100 @@ sum of the distances from two fixeed points is a constant.
 4:30:12
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Features
+Features of an ellipse
 
+Example. Find the equation of an ellipse with foci at (-c, 0) and (c,0)
+and vertices at (-a, 0) and (0, a).
+> Sum of distances from focis is constant = 2a
+c + c + a - c + a - c = 2a
+
+((x-(-1)^2)+(y-0)^2)^1/2 + ((x-c)^2 + (y-0)^2)^1/2 = 2a
+
+(a^2-c^2)*x^2 + a^2*y^2 = a^2(a^2-c^2) | b^2 = a^2 - c^2
+
+b^2*x^2 + a^2*y^2 = a^2b^2 | / a^2b^2
+Now we got an ellipse formula:
+x^2/a^2 + y^2/b^2 = 1 | Note b < a
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Summary: For a > b, the equation x^2/a^2 + y^2/b^2 = 1 represents
+an ellipse, elongated in a horizontal direction with major axis 
+terminated in points (-a,0) and (a,0) and whose minor axis terminates 
+in points (0, -b) and (0, b).
+
+b^2 = a^2 - c^2
+c^2 = a^2 - b^2
+
+For a > b, the equation x^2/b^2 + y^2/a^2 = 1 represents ellipse
+elongated in a vertical direction.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+What about an ellipse centered at (h,k)?
+
+x^2/a^2 + y^2/b^2 = 1 => (x-h)^2/a^2 + (y-k)^2/b^2 = 1 | a > b 
+
+x^2/b^2 + y^2/a^2 = 1 => (x-h)^2/b^2 + (y-k)^2/a^2 = 1 | a < b 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Write the equation of the ellipse drawn. Find its foci.
+
+		         top(4,3)
+
+		
+
+left(-1,-3)		center (4,-3)     right(9,-3)
+
+
+
+				bottom(4,-9)
+
+
+(x-h)^2/b^2 + (y-k)^2/a = 1, a > b
+
+center (h,k) = (4,-3)
+
+a = 6
+b = 5
+
+(x-4)^2/5^2 + (y+3)^2/6 = 1
+
+c^2 = a^2 - b^2 => c^2 = 6^2 - 5^2 = 1 => c = v11'
+
+foci: (4, -3+v11'), (4, -3-v11')
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hyperbolas
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Definition. A hyperbola is the set of points (x,y) such that
+difference of the distances between (x,y) and each of two fixed
+points (foci) is a constant
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Find the equation of an hyperbola with foci at (-c, 0) and
+(c,0) and vertices at (-a, 0) and (a,0).
+
+difference in distances = 2a
+ ____________________     _________________
+v(x-(-1))^2 + (y-0)^2' - v(x-c)^2 + (y-0)^2' = 2a 
+
+x^2/a^2 - y^2/b^2 = 1
+
+c^2 = a^2 + b^2
+
+a is the distance from center to vertex 
+c is distance from center to focus
+
+y = b /a * x, y = -b/a * x - asymptotes
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4:49:57
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
