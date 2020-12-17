@@ -2031,6 +2031,187 @@ y = b /a * x, y = -b/a * x - asymptotes
 
 What about an hyperbola centered at (h,k)?
 
+x^2/a^2 - y^2/b^2 = 1 centered at origin y^2/a^2 - x^2/b^2 = 1
+
+(x-h)^2/a^2-(y-k)^2/b^2=1 centered at (h,k) (y-k)^2/a^2-(x-h)^2/b^2=1
+vertices									vertices
+(h+a, k), (h-a, k)							(h,k+a), (h,k-a)
+
+foci 										foci
+(h+c, k), (h-c, k)							(h, k+c), (h, k-c)
+
+c^2 = a^2 + b^2
+
+asymptoth slope								asymptoth slope
+b/a, -b/a 									a/b, -a/b
+
+y-k = (x-h) * b/a ,                        y-k = (x-h) * a/b
+y-k = (x-h) * -b/a 						   y-k = (x-h) * -a/b
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Graph the hyperbola ((x-6)^2)/4 - ((y+3)^2)/25 = 1.
+Find its center, vertices, foci, and asymptotes.
+
+center: (6, -3)
+
+a = v4' = 2
+b = v25' = 5
+
+c^2 = a^2 + b^2 = 4 + 25 = 29
+c = v29'
+
+foci (6-v29', -3), (6+v29', -3)
+
+Slope: b/a = 5/2, -b/a = -5/2
+
+y + 3 = 5/2 * (x-6), y+3 = -5/2 * (x-6)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Polar Coordinates
+
+point (x,y) uses cartesian coordinates
+point (r, Theta) uses polar coordinates
+r - radius (distance to origin)
+Theta = angle with positive x-axis
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Plot the points, given in polar coordinates.
+
+1. (8, -2Pi/3)
+r = 8,
+Theta = -2Pi/3
+
+2. (5,3Pi)
+r = 5, 
+Theta = 3Pi
+
+3. (-12, Pi/4)
+r = -12,
+Theta = Pi/4
+
+Note. A negative angle means to go clockwise from the positive x-axis.
+A negative radius means jump to the other side of the origin, that is,
+(-r, Theta) means the same point as (r, Theta + Pi).
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Note. To convert between polar (r, Theta) and Cartesian (x,y) coords,
+note that:
+
+x = r*cos(Theta)
+y = r*sin(Theta)
+r^2 = x^2 + y^2 
+tan(Theta) = y/x
+
+^
+|     (x,y)
+|   /|
+| r/ | y
+| / T|
+|/_\_|______>
+   x
+
+cos(Theta) = x/r => x = r*cos(Theta)
+sin(Theta) = y/r => y = r*sin(Theta)
+
+
+Example. Convert (5, -Pi/6) from polar to Cartesian coordinates.
+x = r * cos(Theta), y = r * sin(Theta)
+x = 5 * cos(-Pi/6), y = 5 * sin(-Pi/6)
+x = 5 * v3'/2     , y = - 5 / 2
+
+
+Example. Convert (-1, -1) from Cartesian to polar coordinates.
+r^2 = x^2 + y^2 => r^2 = (-1)^2 + (-1)^2 = 2 => r = +- v2'
+tan(Theta) = y / x = -1 / -1 = 1
+Theta may be Pi/4 +- 2*Pi*k
+
+(x,y) = (-1, -1)
+(r, Theta) = (v2', Pi/4 +- 2*Pi*k)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Parametric Equations
+
+y = f(x) -> x = a(t), y = b(t)
+t - 'time'
+
+used often when function cannot be described as y = f(x)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Definition. A cartesian equation for a curve is an equation in terms of
+x and y only.
+
+Definition. Parametric equations for a curve give both x and y as 
+functions of a third variable (usually t). The third variable is called
+the patameter.
+
+Example. Graph x = 1-2t, y = t^2 + 4
+
+ t 	x  y
+-2  5  8
+-1  3  5
+ 0  1  4
+ 1 -1  5
+ 2 -3  8
+
+Find a Cartesian equation for this curve.
+
+x = 1 - 2t => t = 1-x => t = 1/2 - x/2
+y = (1/2 - x/2)^2 + 4 => y = 1/4x^2 - 1/2x + 17/4
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Plot each curve and find a Cartesian equation:
+
+1. x = cos(t), y = sin(t), for 0<=t<=2Pi
+2. x = cos(-2t), y = sin(-2t), for 0<=t<=2Pi
+3. x = cos^2(t), y = cos(t)
+
+1. x = cos(t), y = sin(t), for 0<=t<=2Pi
+
+  t       x = cos(t)  y = sin(t)
+  0          1            0
+ Pi/4      v2'/2        v2'/2
+ Pi/2        0            1
+3Pi/4     -v2'/2        v2'/2
+ Pi         -1            0
+5Pi/4     -v2'/2       -v2'/2
+3Pi/2        0            -1
+7Pi/4      v2'/2       -v2'/2
+
+Cartesian equation: x^2 + y^2 = 1
+
+2. x = cos(-2t), y = sin(-2t), for 0<=t<=2Pi
+
+  t       x = cos(t)  y = sin(t)
+  0          1            0
+ Pi/8      v2'/2        -v2'/2
+ Pi/4        0           -1
+ Pi/2       -1            0
+3Pi/4        0            1
+ Pi          1            0
+  .
+  .
+  .                  
+2Pi          1            0
+
+Cartesian equation: x**2 + y**2 = 1
+
+3. x = cos^2(t), y = cos(t)
+
+assume t = any real number
+
+Cartesian equation: x = y**2 with the restriction -1 < y < 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+5:08:00
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
