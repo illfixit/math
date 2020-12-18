@@ -2212,9 +2212,41 @@ Cartesian equation: x = y**2 with the restriction -1 < y < 1
 5:08:00
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Example. Write the following in parametric equations:
 
+1. y = (x**2 - x)**1/2 for x <= 0 and x >= 1
+
+x = t,               t <= 0, t >= 1
+y = (t**2 - t)**1/2
+
+2. 25x**2 + 36y**2 = 900
+
+25x**2 / 900  +  36y**2 / 900 = 1
+
+x**2 / 36 + y**2 / 25 = 1
+
+(x/6)**2 + (y/5)**2 = 1
+
+set 
+x/6 = cos(t)
+y/5 = sin(t)
+
+x = 6cos(t) -> handy way to describe
+y = 5sin(t) -> an ellipse
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Example. Describe a circle with radius r and center(h, k):
+
+a) with a Cartesian equation
+b) with parametric equations
+
+((x-h)**2+(y-k)**2)**1/2 = r
+(x-h)**2 + (y-k)**2 = r**2
+
+Ex.: r = 5, center (-3, 17)
+
+(x+3)**2 + (y-17)**2 = 25
 
 
 
