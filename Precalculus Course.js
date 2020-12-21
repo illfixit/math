@@ -2281,32 +2281,30 @@ Example. The average rate of change for f(x) = x**1/2 on the interval
 m = f(4) - f(1) / 4-1 = 4**1/2 - 1**1/2 / 3 = 2 - 1 / 3 = 1/3
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Definition. A difference quotient represents the average rate of change
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 5:17:01
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Definition. A difference quotient represents the average rate of change
+of a fn f(x) on the interval [x, x+h]
 
+i.r. the slope of the secant line between the points (x, f(x)) and 
+(x+h, f(x+h))
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
+m = f(b) - f(a) / (b-a) = f(x+h) - f(x) / (x+h) - (x) = 
+= f(x+h) - f(x) / h
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Example. Find and simplify the difference quotient for 
+f(x) = 2x**2 - x + 3
 
+difference quotient = f(x+h) - f(x) / h
+f(x+h) = 2(x+h)**2 - (x+h) + 3 = 2x**2 + 4xh + h**2 - x - h + 3 = 
+f(x+h) - f(x) = 2x**2 + 4xh + 2h**2 - x - h + 3 - (2x**2 - x + 3) = 
+= 4xh + 2h**2 - h 
+
+(f(x+h) - f(x)) / h = 4x + 2h - 1
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 
 */
