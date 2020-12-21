@@ -2248,6 +2248,58 @@ Ex.: r = 5, center (-3, 17)
 
 (x+3)**2 + (y-17)**2 = 25
 
+x  = cos(t), y = sin(t)
+x = r*cos(t), y = r*sin(t)
+x = r*cos(t) + h, y = r*sin(t) + k
+
+x = 5*cos(t) - 3, y = 5*sin(t)+17
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Difference Quotient 
+(and the average rate of change)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+For a function y = f(x)
+
+Definition. A secant line is a line between two points on the graph
+of a function.
+
+Definition. THe average rate of change for f(x) on the interval [a,b]
+is the slope of the secant line between the two points (a, f(a)) and 
+(b, f(b))
+
+m = rise / run = delta(y) / delta(x) = (f(b)-f(a)) / (b-a) 
+
+Ex.: 
+f(x) is height of tree 
+x in time in years
+
+Example. The average rate of change for f(x) = x**1/2 on the interval
+[1,4] is 
+m = f(4) - f(1) / 4-1 = 4**1/2 - 1**1/2 / 3 = 2 - 1 / 3 = 1/3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Definition. A difference quotient represents the average rate of change
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+5:17:01
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
