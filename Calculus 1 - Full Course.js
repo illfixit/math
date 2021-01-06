@@ -93,11 +93,31 @@ Start
 Finish
 
 (3:01:03) [Corequisite] Solving Basic Trig Equations
+Start
+Finish
+
 (3:08:14) Derivatives and Tangent Lines
+Start
+Finish
+
 (3:22:55) Computing Derivatives from the Definition
+Start
+Finish
+
 (3:34:02) Interpreting Derivatives
+Start
+Finish
+
 (3:42:33) Derivatives as Functions and Graphs of Derivatives
+Start
+Finish
+
 (3:56:25) Proof that Differentiable Functions are Continuous
+Start
+Finish
+
+
+
 (4:01:09) Power Rule and Other Rules for Derivatives
 (4:07:42) [Corequisite] Trig Identities
 (4:15:14) [Corequisite] Pythagorean Identities
