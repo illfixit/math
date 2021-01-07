@@ -116,17 +116,42 @@ Finish
 Start
 Finish
 
-
-
 (4:01:09) Power Rule and Other Rules for Derivatives
+Start
+Finish
+
 (4:07:42) [Corequisite] Trig Identities
+Start
+Finish
+
 (4:15:14) [Corequisite] Pythagorean Identities
+Start
+Finish
+
 (4:20:35) [Corequisite] Angle Sum and Difference Formulas
+Start
+Finish
+
 (4:28:31) [Corequisite] Double Angle Formulas
+Start
+Finish
+
 (4:36:01) Higher Order Derivatives and Notation
+Start
+Finish
+
 (4:39:22) Derivative of e^x
+Start
+Finish
+
 (4:46:52) Proof of the Power Rule and Other Derivative Rules
+Start
+Finish
+
 (4:56:31) Product Rule and Quotient Rule
+Start
+Finish
+
 (5:02:09) Proof of Product Rule and Quotient Rule
 (5:10:40) Special Trigonometric Limits
 (5:17:31) [Corequisite] Composition of Functions
