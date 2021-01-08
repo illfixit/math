@@ -153,12 +153,33 @@ Start
 Finish
 
 (5:02:09) Proof of Product Rule and Quotient Rule
+Start
+Finish
+
 (5:10:40) Special Trigonometric Limits
+Start
+Finish
+
 (5:17:31) [Corequisite] Composition of Functions
+Start
+Finish
+
 (5:29:54) [Corequisite] Solving Rational Equations
+Start
+Finish
+
 (5:40:02) Derivatives of Trig Functions
+Start
+Finish
+
 (5:46:23) Proof of Trigonometric Limits and Derivatives
+Start
+Finish
+
 (5:54:38) Rectilinear Motion
+Start
+Finish
+
 (6:11:41) Marginal Cost
 (6:16:51) [Corequisite] Logarithms: Introduction
 (6:25:32) [Corequisite] Log Functions and Their Graphs
