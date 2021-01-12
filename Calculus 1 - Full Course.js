@@ -181,12 +181,27 @@ Start
 Finish
 
 (6:11:41) Marginal Cost
+Start
+Finish
 (6:16:51) [Corequisite] Logarithms: Introduction
+Start
+Finish
 (6:25:32) [Corequisite] Log Functions and Their Graphs
+Start
+Finish
 (6:36:17) [Corequisite] Combining Logs and Exponents
+Start
+Finish
 (6:40:55) [Corequisite] Log Rules
+Start
+Finish
 (6:49:27) The Chain Rule
+Start
+Finish
 (6:58:44) More Chain Rule Examples and Justification
+Start
+Finish
+
 (7:07:43) Justification of the Chain Rule
 (7:10:00) Implicit Differentiation
 (7:20:28) Derivatives of Exponential Functions
