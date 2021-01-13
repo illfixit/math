@@ -183,32 +183,59 @@ Finish
 (6:11:41) Marginal Cost
 Start
 Finish
+
 (6:16:51) [Corequisite] Logarithms: Introduction
 Start
 Finish
+
 (6:25:32) [Corequisite] Log Functions and Their Graphs
 Start
 Finish
+
 (6:36:17) [Corequisite] Combining Logs and Exponents
 Start
 Finish
+
 (6:40:55) [Corequisite] Log Rules
 Start
 Finish
+
 (6:49:27) The Chain Rule
 Start
 Finish
+
 (6:58:44) More Chain Rule Examples and Justification
 Start
 Finish
 
 (7:07:43) Justification of the Chain Rule
+Start
+Finish
+
 (7:10:00) Implicit Differentiation
+Start
+Finish
+
 (7:20:28) Derivatives of Exponential Functions
+Start
+Finish
+
 (7:25:38) Derivatives of Log Functions
+Start
+Finish
+
 (7:29:38) Logarithmic Differentiation
+Start
+Finish
+
 (7:37:08) [Corequisite] Inverse Functions
+Start
+Finish
+
 (7:51:22) Inverse Trig Functions
+Start
+Finish
+
 (8:00:56) Derivatives of Inverse Trigonometric Functions
 (8:12:11) Related Rates - Distances
 (8:17:55) Related Rates - Volume and Flow
@@ -219,7 +246,7 @@ Finish
 (8:51:37) Extreme Value Examples
 (9:01:33) Mean Value Theorem
 (9:09:09) Proof of Mean Value Theorem
-(0:14:59) [Corequisite] Solving Right Triangles
+(9:14:59) [Corequisite] Solving Right Triangles
 (9:25:20) Derivatives and the Shape of the Graph
 (9:33:31) Linear Approximation
 (9:48:28) The Differential
