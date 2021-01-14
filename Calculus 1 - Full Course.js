@@ -237,13 +237,37 @@ Start
 Finish
 
 (8:00:56) Derivatives of Inverse Trigonometric Functions
+Start
+Finish
+
 (8:12:11) Related Rates - Distances
+Start
+Finish
+
 (8:17:55) Related Rates - Volume and Flow
+Start
+Finish
+
 (8:22:21) Related Rates - Angle and Rotation
+Start
+Finish
+
 (8:28:20) [Corequisite] Solving Right Triangles
+Start
+Finish
+
 (8:34:54) Maximums and Minimums
+Start
+Finish
+
 (8:46:18) First Derivative Test and Second Derivative Test
+Start
+Finish
+
 (8:51:37) Extreme Value Examples
+Start
+Finish
+
 (9:01:33) Mean Value Theorem
 (9:09:09) Proof of Mean Value Theorem
 (9:14:59) [Corequisite] Solving Right Triangles
