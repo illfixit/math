@@ -269,12 +269,33 @@ Start
 Finish
 
 (9:01:33) Mean Value Theorem
+Start
+Finish
+
 (9:09:09) Proof of Mean Value Theorem
+Start
+Finish
+
 (9:14:59) [Corequisite] Solving Right Triangles
+Start
+Finish
+
 (9:25:20) Derivatives and the Shape of the Graph
+Start
+Finish
+
 (9:33:31) Linear Approximation
+Start
+Finish
+
 (9:48:28) The Differential
+Start
+Finish
+
 (9:59:11) L'Hospital's Rule
+Start
+Finish
+
 (10:06:27) L'Hospital's Rule on Other Indeterminate Forms
 (10:16:13) Newtons Method
 (10:27:45) Antiderivatives
