@@ -297,12 +297,33 @@ Start
 Finish
 
 (10:06:27) L'Hospital's Rule on Other Indeterminate Forms
+Start
+Finish
+
 (10:16:13) Newtons Method
+Start
+Finish
+
 (10:27:45) Antiderivatives
+Start
+Finish
+
 (10:33:24) Finding Antiderivatives Using Initial Conditions
+Start
+Finish
+
 (10:41:59) Any Two Antiderivatives Differ by a Constant
+Start
+Finish
+
 (10:45:19) Summation Notation
+Start
+Finish
+
 (10:49:12) Approximating Area
+Start
+Finish
+
 (11:04:22) The Fundamental Theorem of Calculus, Part 1
 (11:15:02) The Fundamental Theorem of Calculus, Part 2
 (11:22:17) Proof of the Fundamental Theorem of Calculus
