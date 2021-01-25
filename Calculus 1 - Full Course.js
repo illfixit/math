@@ -325,9 +325,29 @@ Start
 Finish
 
 (11:04:22) The Fundamental Theorem of Calculus, Part 1
+Start
+Finish
+
 (11:15:02) The Fundamental Theorem of Calculus, Part 2
+Start
+Finish
+
 (11:22:17) Proof of the Fundamental Theorem of Calculus
+Start
+Finish
+
 (11:29:18) The Substitution Method
+Start
+Finish
+
 (11:38:07) Why U-Substitution Works
+Start
+Finish
+
 (11:40:23) Average Value of a Function
+Start
+Finish
+
 (11:47:57) Proof of the Mean Value Theorem for Integrals
+Start
+Finish
