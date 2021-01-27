@@ -9,7 +9,7 @@ https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1
 
 Lecture 01: Derivatives, slope, velocity, rate of change
 Start
-
+Finish
 
 Lecture 02: Limits, continuity; Trigonometric limits
 Lecture 03: Derivatives of products, quotients, sine, cosine
