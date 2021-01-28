@@ -12,6 +12,9 @@ Start
 Finish
 
 Lecture 02: Limits, continuity; Trigonometric limits
+Start
+Finish
+
 Lecture 03: Derivatives of products, quotients, sine, cosine
 Lecture 04: Chain rule. Higher derivatives
 Lecture 05: Implicit differentiation, inverses
