@@ -16,6 +16,9 @@ Start
 Finish
 
 Lecture 03: Derivatives of products, quotients, sine, cosine
+Start
+Finish
+
 Lecture 04: Chain rule. Higher derivatives
 Lecture 05: Implicit differentiation, inverses
 Lecture 06: Exponential and log; Logarithmic differentiation; hyperbolic functions
