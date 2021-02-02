@@ -20,6 +20,9 @@ Start
 Finish
 
 Lecture 04: Chain rule. Higher derivatives
+Start
+Finish
+
 Lecture 05: Implicit differentiation, inverses
 Lecture 06: Exponential and log; Logarithmic differentiation; hyperbolic functions
 Lecture 07: Hyperbolic functions (cont.) and exam 1 review
