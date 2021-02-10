@@ -24,6 +24,9 @@ Start
 Finish
 
 Lecture 05: Implicit differentiation, inverses
+Start
+Finish
+
 Lecture 06: Exponential and log; Logarithmic differentiation; hyperbolic functions
 Lecture 07: Hyperbolic functions (cont.) and exam 1 review
 Lecture 09: Linear and quadratic approximations
