@@ -29,7 +29,7 @@ Finish
 
 Lecture 06: Exponential and log; Logarithmic differentiation; hyperbolic functions
 Start
-
+Finish
 
 Lecture 07: Hyperbolic functions (cont.) and exam 1 review
 Lecture 09: Linear and quadratic approximations
