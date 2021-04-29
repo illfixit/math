@@ -32,6 +32,9 @@ Start
 Finish
 
 Lecture 07: Hyperbolic functions (cont.) and exam 1 review
+Start
+Finish
+
 Lecture 09: Linear and quadratic approximations
 
 Lecture 10: Approximations (cont.); curve sketching
