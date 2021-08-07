@@ -36,6 +36,8 @@ Start
 Finish
 
 Lecture 09: Linear and quadratic approximations
+Start
+
 
 Lecture 10: Approximations (cont.); curve sketching
 Lecture 11: Max-min problems
