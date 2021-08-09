@@ -41,7 +41,7 @@ Finish
 
 Lecture 10: Approximations (cont.); curve sketching
 Start
-
+Finish
 
 Lecture 11: Max-min problems
 Lecture 12: Related rates
