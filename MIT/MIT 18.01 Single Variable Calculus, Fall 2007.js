@@ -44,6 +44,9 @@ Start
 Finish
 
 Lecture 11: Max-min problems
+Start
+
+
 Lecture 12: Related rates
 Lecture 13: Newton's method and other applications
 Lecture 14: Mean value theorem; Inequalities
