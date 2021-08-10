@@ -45,7 +45,7 @@ Finish
 
 Lecture 11: Max-min problems
 Start
-
+Finish
 
 Lecture 12: Related rates
 Lecture 13: Newton's method and other applications
