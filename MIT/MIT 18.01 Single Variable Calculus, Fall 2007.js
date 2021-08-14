@@ -48,6 +48,9 @@ Start
 Finish
 
 Lecture 12: Related rates
+Start
+
+
 Lecture 13: Newton's method and other applications
 Lecture 14: Mean value theorem; Inequalities
 Lecture 15: Differentials, antiderivatives
