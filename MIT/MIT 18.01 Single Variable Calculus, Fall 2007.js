@@ -52,6 +52,9 @@ Start
 Finish
 
 Lecture 13: Newton's method and other applications
+Start
+
+
 Lecture 14: Mean value theorem; Inequalities
 Lecture 15: Differentials, antiderivatives
 Lecture 16: Differential equations, separation of variables
