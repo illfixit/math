@@ -57,7 +57,7 @@ Finish
 
 Lecture 14: Mean value theorem; Inequalities
 Start
-
+Finish
 
 Lecture 15: Differentials, antiderivatives
 Lecture 16: Differential equations, separation of variables
