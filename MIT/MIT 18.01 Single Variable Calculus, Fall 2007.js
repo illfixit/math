@@ -60,6 +60,9 @@ Start
 Finish
 
 Lecture 15: Differentials, antiderivatives
+Start
+
+
 Lecture 16: Differential equations, separation of variables
 Lecture 18: Definite integrals
 Lecture 19: First fundamental theorem of calculus
