@@ -61,7 +61,7 @@ Finish
 
 Lecture 15: Differentials, antiderivatives
 Start
-
+Finish
 
 Lecture 16: Differential equations, separation of variables
 Lecture 18: Definite integrals
