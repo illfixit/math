@@ -64,6 +64,9 @@ Start
 Finish
 
 Lecture 16: Differential equations, separation of variables
+Start
+
+
 Lecture 18: Definite integrals
 Lecture 19: First fundamental theorem of calculus
 
