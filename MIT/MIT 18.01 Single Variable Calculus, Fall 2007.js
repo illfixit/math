@@ -68,6 +68,9 @@ Start
 Finish
 
 Lecture 18: Definite integrals
+Start
+
+
 Lecture 19: First fundamental theorem of calculus
 
 Lecture 20: Second fundamental theorem
