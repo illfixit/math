@@ -69,7 +69,7 @@ Finish
 
 Lecture 18: Definite integrals
 Start
-
+Finish
 
 Lecture 19: First fundamental theorem of calculus
 
