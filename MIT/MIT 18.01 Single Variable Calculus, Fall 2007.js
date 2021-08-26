@@ -72,6 +72,8 @@ Start
 Finish
 
 Lecture 19: First fundamental theorem of calculus
+Start
+
 
 Lecture 20: Second fundamental theorem
 Lecture 21: Applications to logarithms and geometry
