@@ -76,6 +76,9 @@ Start
 Finish
 
 Lecture 20: Second fundamental theorem
+Start
+
+
 Lecture 21: Applications to logarithms and geometry
 Lecture 22: Volumes by disks and shells
 Lecture 23: Work, average value, probability
