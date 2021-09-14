@@ -77,7 +77,7 @@ Finish
 
 Lecture 20: Second fundamental theorem
 Start
-
+Finish
 
 Lecture 21: Applications to logarithms and geometry
 Lecture 22: Volumes by disks and shells
