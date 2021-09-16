@@ -80,6 +80,9 @@ Start
 Finish
 
 Lecture 21: Applications to logarithms and geometry
+Start
+
+
 Lecture 22: Volumes by disks and shells
 Lecture 23: Work, average value, probability
 Lecture 24: Numerical integration
