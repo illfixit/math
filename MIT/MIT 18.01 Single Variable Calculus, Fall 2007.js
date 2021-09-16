@@ -81,7 +81,7 @@ Finish
 
 Lecture 21: Applications to logarithms and geometry
 Start
-
+Finish
 
 Lecture 22: Volumes by disks and shells
 Lecture 23: Work, average value, probability
