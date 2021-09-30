@@ -85,7 +85,7 @@ Finish
 
 Lecture 22: Volumes by disks and shells
 Start
-
+Finish
 
 Lecture 23: Work, average value, probability
 Lecture 24: Numerical integration
