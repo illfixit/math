@@ -1,0 +1,24 @@
+Mathematik-Vorkurs NAT-ING WiSe 2021/22 – TU Dortmund
+https://www.youtube.com/watch?v=RzJU6UAmrN4&list=PLwJSUQFfHakijmde5O6DmpsRdayJPX4RS
+
+Kapitel 1: Zahlenmengen, Mengenoperationen
+Start
+
+
+Kapitel 2: Summen/Produkte und Quantoren
+Kapitel 3: Bruchrechnung
+Kapitel 4: Potenzrechnung
+Kapitel 5: Gemischte Aufgaben, Ausklammern.
+Kapitel 6: Abbildungen
+Kapitel 7: Gleichungen und Nullstellen
+Kapitel 8: (Lineare) Gleichungssysteme
+Kapitel 9: Beträge / Absolutbeträge
+Kapitel 10: Ungleichungen/Betragsungleichungen
+Kapitel 11: Sinus, Cosinus, Exp, Logarithmus
+Kapitel 12: Komplexe Zahlen
+Kapitel 13: Differentialrechnung
+Kapitel 14: Integralrechnung
+Kapitel 15: Vektorräume und Matrizen
+
+
+
