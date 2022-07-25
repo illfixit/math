@@ -3,11 +3,14 @@ https://www.youtube.com/watch?v=RzJU6UAmrN4&list=PLwJSUQFfHakijmde5O6DmpsRdayJPX
 
 Kapitel 1: Zahlenmengen, Mengenoperationen
 Start
-
+Finish
 
 Kapitel 2: Summen/Produkte und Quantoren
+
 Kapitel 3: Bruchrechnung
+
 Kapitel 4: Potenzrechnung
+
 Kapitel 5: Gemischte Aufgaben, Ausklammern.
 Kapitel 6: Abbildungen
 Kapitel 7: Gleichungen und Nullstellen
