@@ -6,12 +6,13 @@ Start
 Finish
 
 Kapitel 2: Summen/Produkte und Quantoren
+Start
 
 Kapitel 3: Bruchrechnung
 
 Kapitel 4: Potenzrechnung
 
-Kapitel 5: Gemischte Aufgaben, Ausklammern.
+Kapitel 5: Gemischte Aufgaben, Ausklammern
 Kapitel 6: Abbildungen
 Kapitel 7: Gleichungen und Nullstellen
 Kapitel 8: (Lineare) Gleichungssysteme
