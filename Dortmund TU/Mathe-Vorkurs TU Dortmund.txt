@@ -10,11 +10,15 @@ Start
 Finish
 
 Kapitel 3: Bruchrechnung
+Start
+
 
 Kapitel 4: Potenzrechnung
 
 Kapitel 5: Gemischte Aufgaben, Ausklammern
+
 Kapitel 6: Abbildungen
+
 Kapitel 7: Gleichungen und Nullstellen
 Kapitel 8: (Lineare) Gleichungssysteme
 Kapitel 9: Beträge / Absolutbeträge
