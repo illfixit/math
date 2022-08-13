@@ -19,7 +19,7 @@ Finish
 
 Kapitel 5: Gemischte Aufgaben, Ausklammern
 Start
-
+Finish
 
 Kapitel 6: Abbildungen
 
@@ -30,6 +30,7 @@ Kapitel 8: (Lineare) Gleichungssysteme
 Kapitel 9: Beträge / Absolutbeträge
 
 Kapitel 10: Ungleichungen/Betragsungleichungen
+
 Kapitel 11: Sinus, Cosinus, Exp, Logarithmus
 Kapitel 12: Komplexe Zahlen
 Kapitel 13: Differentialrechnung
