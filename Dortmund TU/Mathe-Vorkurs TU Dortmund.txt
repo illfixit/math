@@ -26,6 +26,8 @@ Start
 Finish
 
 Kapitel 7: Gleichungen und Nullstellen
+Start
+
 
 Kapitel 8: (Lineare) Gleichungssysteme
 
@@ -34,6 +36,7 @@ Kapitel 9: Beträge / Absolutbeträge
 Kapitel 10: Ungleichungen/Betragsungleichungen
 
 Kapitel 11: Sinus, Cosinus, Exp, Logarithmus
+
 Kapitel 12: Komplexe Zahlen
 Kapitel 13: Differentialrechnung
 Kapitel 14: Integralrechnung
