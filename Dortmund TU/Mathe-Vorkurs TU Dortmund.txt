@@ -35,6 +35,7 @@ Finish
 
 Kapitel 9: Beträge / Absolutbeträge
 Start
+Finish
 
 Kapitel 10: Ungleichungen/Betragsungleichungen
 
@@ -45,6 +46,8 @@ Kapitel 12: Komplexe Zahlen
 Kapitel 13: Differentialrechnung
 
 Kapitel 14: Integralrechnung
+
 Kapitel 15: Vektorräume und Matrizen
+
 
 
