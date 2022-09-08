@@ -1,0 +1,28 @@
+TU Dortmund Vorlesungen zu HöMa 1 - WiSe 2021/22
+
+https://www.youtube.com/watch?v=wvRdXMhoi24&list=PLeSG--pIWKTMcR7tseCgHGS72AQX15iVY
+
+VL 1: Mengen, Körper, reelle Zahlen, Summe, Produkt
+VL 2: geometrische Summenformel Binomischer Lehrsatz 
+VL 3: Beweisverfahren: Vollständige Induktion 
+VL 4: Absolutbetrag, Betrags(un)gleichungen 
+VL 5: Komplexe Zahlen, Teil 1: Koordinatenform 
+VL 6: Komplexe Zahlen, Teil 2: Polarkoordinaten 
+VL 7: Bijektive Abbildungen und Umkehrabbildung 
+VL 8: Monotonie und trigonometrische Funktionen 
+VL 9: Polynom, -Division, Linearfaktor-Zerlegung 
+VL 10: Nullstellen von Polynomen, Gleichungssysteme I 
+VL 11: Lineare Gleichungssysteme II, Gauß-Verfahren 
+VL 12: (Unter)-Vektorräume, Linearkombination, Spann 
+VL 13: EZS, lineare Unabhängigkeit, Basis 
+VL 14: Austauschlemma, Basis, Skalarprodukt, Norm
+VL 15: Gram-Schmidt-Verfahren ONB Lineare Abbildungen 
+VL 16: Lineare Abbildungen, Bild, Kern, Basis
+VL 17: Matrizen: Produkt, Regeln, Invertierbarkeit 
+VL 18: Invertierbare Matrizen, Determinanten, Laplace 
+VL 19: Eigenwerte, Eigenvektoren, Eigenräume
+VL 20: Spur, Symmetrische Matrizen und ONBs aus EV 
+VL 21: Orthog. Matrizen, Hauptachsentransformation 
+VL 22: Folgen I: Definition Konvergenz Divergenz
+VL 23: Folgen II: Grenzwertsätze Teilfolgen Cauchy 
+VL 24: Unendliche Reihen, Reihenwert, Kriterien

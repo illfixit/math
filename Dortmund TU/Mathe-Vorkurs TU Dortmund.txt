@@ -30,6 +30,8 @@ Start
 Finish
 
 Kapitel 8: (Lineare) Gleichungssysteme
+Start
+
 
 Kapitel 9: Beträge / Absolutbeträge
 
@@ -38,9 +40,10 @@ Kapitel 10: Ungleichungen/Betragsungleichungen
 Kapitel 11: Sinus, Cosinus, Exp, Logarithmus
 
 Kapitel 12: Komplexe Zahlen
+
 Kapitel 13: Differentialrechnung
+
 Kapitel 14: Integralrechnung
 Kapitel 15: Vektorräume und Matrizen
-
 
 
