@@ -3,6 +3,7 @@ TU Dortmund Vorlesungen zu HöMa 1 - WiSe 2021/22
 https://www.youtube.com/watch?v=wvRdXMhoi24&list=PLeSG--pIWKTMcR7tseCgHGS72AQX15iVY
 
 VL 1: Mengen, Körper, reelle Zahlen, Summe, Produkt
+
 VL 2: geometrische Summenformel Binomischer Lehrsatz 
 VL 3: Beweisverfahren: Vollständige Induktion 
 VL 4: Absolutbetrag, Betrags(un)gleichungen 
